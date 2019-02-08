@@ -1,0 +1,42 @@
+[submodule "2018/PersonalizedFitWorkouts"]
+	path = 2018/PersonalizedFitWorkouts
+	url = https://github.com/sculebras1/PersonalizedFitWorkouts.git
+[submodule "2018/FootballNetwork"]
+	path = 2018/FootballNetwork
+	url = https://github.com/alvaroBarrosoMato/FootballNetwork.git
+[submodule "2018/URJC-Academy"]
+	path = 2018/URJC-Academy
+	url = https://github.com/DannyVanHalen/URJC-Academy.git
+[submodule "2018/guardarpunto"]
+	path = 2018/guardarpunto
+	url = https://github.com/mfms5/guardarpunto.git
+[submodule "2018/GamesInfo"]
+	path = 2018/GamesInfo
+	url = https://github.com/lalinlulelo/GamesInfo.git
+[submodule "2018/SpartanGym"]
+	path = 2018/SpartanGym
+	url = https://github.com/JoseGIC/SpartanGym.git
+[submodule "2018/Hard-Paradise"]
+	path = 2018/Hard-Paradise
+	url = https://github.com/SexyBuggy/Hard-Paradise.git
+[submodule "2018/PracticaFase1.2"]
+	path = 2018/PracticaFase1.2
+	url = https://github.com/carlosgarciahernan/PracticaFase1.2.git
+[submodule "2018/FoodAtHome"]
+	path = 2018/FoodAtHome
+	url = https://github.com/pracDAD2018/FoodAtHome.git
+[submodule "2018/desguambios"]
+	path = 2018/desguambios
+	url = https://github.com/di3guez/desguambios.git
+[submodule "2018/SmartestPhone"]
+	path = 2018/SmartestPhone
+	url = https://github.com/JerezRafael/SmartestPhone.git
+[submodule "2018/looking4sitter"]
+	path = 2018/looking4sitter
+	url = https://github.com/sarapcoding/looking4sitter.git
+[submodule "2018/PremierURJC"]
+	path = 2018/PremierURJC
+	url = https://github.com/fsanchezgar/PremierURJC.git
+[submodule "2018/gym-tool"]
+	path = 2018/gym-tool
+	url = https://github.com/didushow/gym-tool.git
